@@ -26,7 +26,7 @@ Praticar o processo de criação e configuração de uma instância de Banco de 
 - Habilitado login com usuário e senha
 
 📸 Veja o processo:  
-![Criação do banco](images/criacao-banco.png)
+![Criação do banco](imagens/criacao-banco.png)
 
 ---
 
@@ -36,7 +36,7 @@ Praticar o processo de criação e configuração de uma instância de Banco de 
 - Permitido acesso de serviços do Azure
 
 📸 Captura de tela:  
-![Configuração do Firewall](images/configuracao-seguranca.png)
+![Configuração do Firewall](imagens/configuracao-seguranca.png)
 
 ---
 
@@ -48,7 +48,7 @@ Praticar o processo de criação e configuração de uma instância de Banco de 
 - Realizado teste com criação de tabela e inserção de dados
 
 📸 Captura de tela:  
-![Conexão com SSMS](images/revisar-criar.png)
+![Conexão com SSMS](imagens/revisar-criar.png)
 
 ---
 
